@@ -38,4 +38,5 @@ next-env.d.ts
 # my
 .env.*
 
+# json Object
 json/*
