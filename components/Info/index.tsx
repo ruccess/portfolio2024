@@ -19,7 +19,7 @@ function infoComponent({
   return (
     <div className={style.container}>
       <div className={style.privacy}>
-        <ProfilePhoto photos={photos} />
+        <ProfilePhoto photos={photos} className={style.profileContainer} />
         <div className={style.aboutMe}>
           <p>
             <span className={style.name}>{name}</span>
