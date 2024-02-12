@@ -1,0 +1,216 @@
+{
+  "name": "양성주",
+  "year": "1995",
+  "jop": "Backend Developer",
+  "photos": [
+    {
+      "id": "character",
+      "src": "https://static.ruccess.site/images/PhotoView.jpg",
+      "blur": ""
+    },
+    {
+      "id": "cat",
+      "src": "https://static.ruccess.site/images/kirby.png",
+      "blur": ""
+    }
+  ],
+  "introduce": {
+    "label": "자기소개",
+    "description": "안녕하세요, 저는 경력 3년 백엔드 개발자 양성주입니다. 지금까지 SI 업체와 스타트업에서 서비스 개발을 진행하며 출시와 운영 경험을 쌓았습니다.\n\n저는 팀의 생산성을 높이기 위해 지속적인 노력과 학습을 이어나갈 것입니다. 더 나은 서비스를 개발하기 위해 코드의 품질을 높이기 위한 학습을 진행할 뿐만 아니라 새로운 기술과 도구를 습득하며, 능동적으로 문제를 해결하고, 개발 프로세스를 개선하는 것을 목표로 하고 있습니다."
+  },
+  "skills": {
+    "id": "test",
+    "label": "Skills",
+    "list": [
+      {
+        "id": "backend",
+        "label": "Back-End",
+        "list": [
+          {
+            "id": "Javascript",
+            "label": "Javascript (ES6+)"
+          },
+          {
+            "id": "typescript",
+            "label": "Typescript"
+          },
+          {
+            "id": "node",
+            "label": "Node.js"
+          },
+          {
+            "id": "express",
+            "label": "Express js"
+          },
+          {
+            "id": "nest",
+            "label": "Nest js"
+          },
+          {
+            "id": "javas",
+            "label": "Java, Spring/SpringBoot, JPA, Mybatis"
+          }
+        ]
+      },
+      {
+        "id": "Database",
+        "label": "database",
+        "list": [
+          {
+            "id": "MySQL",
+            "label": "MySQL"
+          },
+          {
+            "id": "Mariadb",
+            "label": "Mariadb"
+          },
+          {
+            "id": "Postgresql",
+            "label": "Postgresql"
+          },
+          {
+            "id": "Redis",
+            "label": "Redis"
+          }
+        ]
+      },
+      {
+        "id": "etc",
+        "label": "Etc",
+        "list": [
+          {
+            "id": "NGINX",
+            "label": "NGINX"
+          },
+          {
+            "id": "Linux",
+            "label": "Linux"
+          },
+          {
+            "id": "Docker",
+            "label": "Docker"
+          },
+          {
+            "id": "ci",
+            "label": "Gitlab CI/CD, GitHub Actions, Jenkins"
+          },
+          {
+            "id": "infra",
+            "label": "AWS, GCP"
+          }
+        ]
+      }
+    ]
+  },
+  "workExperience": {
+    "label": "업무경험",
+    "companies": [
+      {
+        "id": "ais",
+        "date": [
+          "2020.11",
+          "2023.04"
+        ],
+        "name": "에이아이에스",
+        "position": "생육 작물 모델링을 통해 농민들에게 의사결정 서비스를 제공하는 농업 스타트업",
+        "nameEn": "개발팀 / 선임 / 백엔드 개발자",
+        "projects": [
+          {
+            "id": "4f125d601c7e451697dd7458cc5ca449",
+            "name": "farm-viewer 백엔드 개발",
+            "date": [
+              "2022.07",
+              "2023.04"
+            ]
+          },
+          {
+            "id": "2c901dd84cf14168875080e8cfc5989d",
+            "name": "잘키움 백엔드 개발",
+            "date": [
+              "2020.11",
+              "2021.07"
+            ]
+          },
+          {
+            "id": "5da1917c9694417ea1a0e655c039107a",
+            "name": "welltomatic 개발",
+            "date": [
+              "2021.11",
+              "2023.08"
+            ]
+          },
+          {
+            "id": "e5d62a4c8c3c469680973cf9e47c0cd1",
+            "name": "잘키움 B2G 서비스 백엔드 개발",
+            "date": [
+              "2021.07",
+              "2022.11"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "vic global",
+        "date": [
+          "2019.06",
+          "2020.08"
+        ],
+        "name": "브이아이씨글로벌",
+        "position": "BI, BigData, Cloud System, Community 등의 솔루션을 제공하고 컨설팅 하는 SI 기업",
+        "nameEn": "개발팀 / 사원 / SI 사업부",
+        "projects": [
+          {
+            "id": "7af710b245974f6ea9af063e6cec2464",
+            "name": "EIS/모바일 임원실적 개선",
+            "date": [
+              "2020.06",
+              "2020.08"
+            ]
+          },
+          {
+            "id": "6fd538d3427a4255a9536ff19e33ce35",
+            "name": "bbs(커뮤니티 솔루션) 유지보수 및 정기점검",
+            "date": [
+              "2020.03",
+              "2020.05"
+            ]
+          },
+          {
+            "id": "0b0de086cb1442ccbfca9f3f5f0b426c",
+            "name": "올크레딧 차세대 3.0 프로젝트",
+            "date": [
+              "2019.07",
+              "2020.02"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "resumeItems": [
+    {
+      "id": "e8b4c604-d492-48fb-85f6-11f9370633a3",
+      "label": "교육",
+      "items": [
+        {
+          "id": "c2568fb7-62d5-4921-a245-c869f2e8448e",
+          "start": "2011.03",
+          "end": "2014.02",
+          "description": "경주여자고등학교 / 이과계열"
+        },
+        {
+          "id": "8450b637-b523-4223-9cd6-5f5cdb5507d8",
+          "start": "2014.03",
+          "end": "2018.08",
+          "description": "안동대학교 / 자연대학 / 원예육종학"
+        },
+        {
+          "id": "676aa222-44b0-4eed-9c50-1555c32b2433",
+          "start": "2018.10",
+          "end": "2019.04",
+          "description": "한국기술교육직업전문학교 / 핀테크를 위한 자바 프레임워크 개발자 양성과정"
+        }
+      ]
+    }
+  ]
+}

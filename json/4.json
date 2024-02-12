@@ -1,0 +1,50 @@
+{
+  "subTitle": "잘키움 B2G 서비스 백엔드 개발",
+  "title": "welltomatic 개발",
+  "description": "잘키움을 기반으로 하는 노지스마트팜 관련 정부 지원 사업의 서비스 (안동, 괴산 등)",
+  "imageCount": 0,
+  "date": "2021.07 - 2022.11",
+  "team":{
+    "label": "Teams",
+    "total": 3,
+    "description": "Backend : 3명"
+  },
+  "skill": {
+    "label": "Skills",
+    "list": [
+      {
+        "id": "express",
+        "label": "Express"
+      },
+      {
+        "id": "node",
+        "label": "Node.js"
+      },
+      {
+        "id": "Javascript",
+        "label": "Javascript (ES6+)"
+      },
+      {
+        "id": "Goldilocks",
+        "label": "Goldilocks"
+      },
+      {
+        "id": "Sequelize",
+        "label": "Sequelize"
+      },
+      {
+        "id": "jenkins",
+        "label": "jenkins"
+      }
+    ]
+  },
+  "taskList": {
+    "label": "Contributions",
+    "list": [
+      {"id": "task01", "description": "외부 API 연계, 기상대와 통신후 데이터 정제 및 저장, 날씨 및 날짜 관련 API 개발"},
+      {"id": "task02", "description": "무인장비제어 관련 scheduling job 개발"}
+    ]
+  },
+  "prevBlockId": "5da1917c9694417ea1a0e655c039107a",
+  "nextBlockId": "7af710b245974f6ea9af063e6cec2464"
+}
