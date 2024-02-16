@@ -35,8 +35,8 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# my
-.env.*
+# all env ignore
+.env*
 
 # json Object
 json/*
