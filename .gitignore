@@ -35,8 +35,11 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# my
-.env.*
+# .env ignore
+.env
 
 # json Object
 json/*
+
+# jetbrain Idea ignore
+.idea/*
